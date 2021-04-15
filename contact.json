@@ -1,0 +1,20 @@
+{
+    "contact": {
+        "title": "Contact Me",
+        "contact_subheader": "If you interest with me please feel free to contact me in email or telegram down below",
+        "contacts": [
+            {
+                "id": 0,
+                "name": "telegram",
+                "icon_classcode": "fab fa-telegram",
+                "description": "(+62) 823 2928 9451"
+            },
+            {
+                "id": 1,
+                "name": "email",
+                "icon_classcode": "fa fa-envelope",
+                "description": "febriansyahrps@outlook.com"
+            }
+        ]
+    }
+}
