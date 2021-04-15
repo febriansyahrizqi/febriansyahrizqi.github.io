@@ -1,43 +1,41 @@
 {
-    "skill": {
-        "title": "Professional Skills",
-        "skills": [
-            {
-                "id": 0,
-                "name": "html",
-                "icon_classcode": "fab fa-html5",
-                "description": "Experienced in HTML as the main code to create of a website, especially in the utilizing of HTML Semantic Elements to structure a website page"
-            },
-            {
-                "id": 1,
-                "name": "css",
-                "icon_classcode": "fab fa-css3-alt",
-                "description": "Experienced in CSS as styling and beautifying of website both with pure css or css frameworks such as Bootstrap 5 and Materialize CSS"
-            },
-            {
-                "id": 2,
-                "name": "javascript",
-                "icon_classcode": "fab fa-js-square",
-                "description": "Experienced in Javascript as the main development language of the website, especially in the use of Javascript functions and classes, web components, and fetching data for website"
-            },
-            {
-                "id": 3,
-                "name": "react",
-                "icon_classcode": "fab fa-react",
-                "description": "Experienced in React as the main framework for developing a website, especially in the use of state and props, React Router and React Redux as react state management"
-            },
-            {
-                "id": 4,
-                "name": "git",
-                "icon_classcode": "fab fa-git",
-                "description": "Experienced in Git as a tools of colaboration and management data in working on a project, especially in using GitLab"
-            },
-            {
-                "id": 5,
-                "name": "npm",
-                "icon_classcode": "fab fa-npm",
-                "description": "experienced in NPM as the main software registry tools for package manager in website development"
-            }
-        ]
-    }
+    "title": "Professional Skills",
+    "skills": [
+        {
+            "id": 0,
+            "name": "html",
+            "icon_classcode": "fab fa-html5",
+            "description": "Experienced in HTML as the main code to create of a website, especially in the utilizing of HTML Semantic Elements to structure a website page"
+        },
+        {
+            "id": 1,
+            "name": "css",
+            "icon_classcode": "fab fa-css3-alt",
+            "description": "Experienced in CSS as styling and beautifying of website both with pure css or css frameworks such as Bootstrap 5 and Materialize CSS"
+        },
+        {
+            "id": 2,
+            "name": "javascript",
+            "icon_classcode": "fab fa-js-square",
+            "description": "Experienced in Javascript as the main development language of the website, especially in the use of Javascript functions and classes, web components, and fetching data for website"
+        },
+        {
+            "id": 3,
+            "name": "react",
+            "icon_classcode": "fab fa-react",
+            "description": "Experienced in React as the main framework for developing a website, especially in the use of state and props, React Router and React Redux as react state management"
+        },
+        {
+            "id": 4,
+            "name": "git",
+            "icon_classcode": "fab fa-git",
+            "description": "Experienced in Git as a tools of colaboration and management data in working on a project, especially in using GitLab"
+        },
+        {
+            "id": 5,
+            "name": "npm",
+            "icon_classcode": "fab fa-npm",
+            "description": "experienced in NPM as the main software registry tools for package manager in website development"
+        }
+    ]
 }
