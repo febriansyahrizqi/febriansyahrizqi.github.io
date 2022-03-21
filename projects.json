@@ -4,7 +4,7 @@
     "date": "26 January 2021",
     "name": "Daharan",
     "image": "https://febriansyahrizqi.github.io/project/daharan.png",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis asperiores iure! Nisi fugit voluptatum doloremque quaerat quo aliquam dolor alias. Voluptatum, accusamus ipsum ducimus dolorum enim distinctio? Accusantium, saepe?",
+    "description": "Daharan is a culinary website that displays a list of restaurants and able to you explore.",
     "github_link": "https://github.com/Febriansyahrps/Daharan-App-with-Testing",
     "project_link": "https://daharan-rps.netlify.app/"
   },
@@ -13,7 +13,7 @@
     "date": "22 February 2021",
     "name": "Movie Catalogue",
     "image": "https://febriansyahrizqi.github.io/project/movie-catalogue.png",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis asperiores iure! Nisi fugit voluptatum doloremque quaerat quo aliquam dolor alias. Voluptatum, accusamus ipsum ducimus dolorum enim distinctio? Accusantium, saepe?",
+    "description": "Movie catalogue is a website that provides information about movies. This website will display list of interesting movies that able to you explore, both latest and upcoming movies.",
     "github_link": "https://github.com/Febriansyahrps/Movie-Catalogue-with-Testing",
     "project_link": "https://movie-catalogue-rps.netlify.app/"
   },
@@ -22,7 +22,7 @@
     "date": "29 November 2021",
     "name": "Musikan",
     "image": "https://febriansyahrizqi.github.io/project/musikan.png",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis asperiores iure! Nisi fugit voluptatum doloremque quaerat quo aliquam dolor alias. Voluptatum, accusamus ipsum ducimus dolorum enim distinctio? Accusantium, saepe?",
+    "description": "Musikan is a website that able to you to listen good and relaxing music with fascinating interface like music player app.",
     "github_link": "https://github.com/Febriansyahrps/Musikan-music-player",
     "project_link": "https://musikan-rps.netlify.app/"
   },
@@ -31,7 +31,7 @@
     "date": "14 December 2021",
     "name": "Capture",
     "image": "https://febriansyahrizqi.github.io/project/capture.png",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis asperiores iure! Nisi fugit voluptatum doloremque quaerat quo aliquam dolor alias. Voluptatum, accusamus ipsum ducimus dolorum enim distinctio? Accusantium, saepe?",
+    "description": "Capture is a creative landing page about photography website that provides information about services and projects in a fascinating and modern design.",
     "github_link": "https://github.com/Febriansyahrps/capture-website",
     "project_link": "https://capture-rps.netlify.app/"
   },
@@ -40,7 +40,7 @@
     "date": "10 February 2022",
     "name": "Ignite",
     "image": "https://febriansyahrizqi.github.io/project/ignite.png",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis asperiores iure! Nisi fugit voluptatum doloremque quaerat quo aliquam dolor alias. Voluptatum, accusamus ipsum ducimus dolorum enim distinctio? Accusantium, saepe?",
+    "description": "Ignite is a website that provides information about all games on various platform around the world. This website will display interesting games and provide descriptions, screenshots, and any information about the games that able to you explore.",
     "github_link": "https://github.com/Febriansyahrps/Ignite-game-website",
     "project_link": "https://ignite-rps.netlify.app"
   },
@@ -49,7 +49,7 @@
     "date": "6 March 2022",
     "name": "Cek Cuaca",
     "image": "https://febriansyahrizqi.github.io/project/cek-cuaca.png",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem omnis asperiores iure! Nisi fugit voluptatum doloremque quaerat quo aliquam dolor alias. Voluptatum, accusamus ipsum ducimus dolorum enim distinctio? Accusantium, saepe?",
+    "description": "Cek cuaca is a weather website that provides information about weather conditions and forecasts in an attractive and enchanting design that able to you explore.",
     "github_link": "https://github.com/Febriansyahrps/cek-cuaca",
     "project_link": "https://cek-cuaca-rps.netlify.app"
   }
