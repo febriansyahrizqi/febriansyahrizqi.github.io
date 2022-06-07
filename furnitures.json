@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Furniture A",
+    "material": ["metal", "fabric", "leather"],
+    "color": "red"
+  },
+  {
+    "id": 1,
+    "name": "Furniture B",
+    "material": ["teak", "fabric"],
+    "color": "green"
+  },
+  {
+    "id": 2,
+    "name": "Furniture C",
+    "material": ["metal", "leather"],
+    "color": "blue"
+  },
+  {
+    "id": 3,
+    "name": "Furniture D",
+    "material": ["metal", "teak", "fabric"],
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "name": "Furniture E",
+    "material": ["teak", "fabric", "leather"],
+    "color": "blue"
+  },
+  {
+    "id": 5,
+    "name": "Furniture F",
+    "material": ["metal", "teak", "leather"],
+    "color": "red"
+  },
+  {
+    "id": 6,
+    "name": "Furniture G",
+    "material": ["teak", "fabric", "leather"],
+    "color": "red"
+  },
+  {
+    "id": 7,
+    "name": "Furniture H",
+    "material": ["metal", "fabric"],
+    "color": "blue"
+  },
+  {
+    "id": 8,
+    "name": "Furniture I",
+    "material": ["teak", "fabric", "leather"],
+    "color": "red"
+  },
+  {
+    "id": 9,
+    "name": "Furniture J",
+    "material": ["metal", "leather"],
+    "color": "green"
+  }
+]
